@@ -13,6 +13,7 @@ The solutions use a fast integer input algorithm inspired by [this post](https:/
 I managed to rank 2<sup>nd</sup> in Switzerland and 8<sup>th</sup> in the world.
 
 ## Questions
+All the questions were created by Credit Suisse.
 - [Question 1 - Banker and Stocks](Question1)
 - [Question 2 - File Reorganization](Question2)
 - [Question 3 - Sorting Share Prices](Question3)
