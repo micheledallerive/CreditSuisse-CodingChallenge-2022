@@ -5,6 +5,8 @@ This repository contains my solutions to the problems in the Credit Suisse Globa
 
 Each folder contains a file `.md` with the problem statement and a file `.cpp` with my C++ solution.
 
+The solutions use a fast integer input algorithm inspired by [this post](https://stackoverflow.com/a/14209545).
+
 **Note**: the solutions to problem 9 is not the best known (it scored 97.5 / 100, while other partecipants scored 99.5).
 
 ## Results
