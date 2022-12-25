@@ -8,7 +8,7 @@ Each folder contains a file `.md` with the problem statement and a file `.cpp` w
 **Note**: the solutions to problem 9 is not the best known (it scored 97.5 / 100, while other partecipants scored 99.5).
 
 ## Results
-I managed to rank 2<sup>rd</sup> in Switzerland and 8<sup>th</sup> in the world.
+I managed to rank 2<sup>nd</sup> in Switzerland and 8<sup>th</sup> in the world.
 
 ## Questions
 - [Question 1 - Banker and Stocks](Question1)
